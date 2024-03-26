@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwitchCase", "SwitchCase\SwitchCase.vcxproj", "{62BFBA57-A1A2-4BD5-B9D6-FE4619087EE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fungsi n Prosedur", "Fungsi n Prosedur\Fungsi n Prosedur.vcxproj", "{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{62BFBA57-A1A2-4BD5-B9D6-FE4619087EE0}.Release|x64.Build.0 = Release|x64
 		{62BFBA57-A1A2-4BD5-B9D6-FE4619087EE0}.Release|x86.ActiveCfg = Release|Win32
 		{62BFBA57-A1A2-4BD5-B9D6-FE4619087EE0}.Release|x86.Build.0 = Release|Win32
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Debug|x64.ActiveCfg = Debug|x64
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Debug|x64.Build.0 = Debug|x64
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Debug|x86.Build.0 = Debug|Win32
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Release|x64.ActiveCfg = Release|x64
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Release|x64.Build.0 = Release|x64
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Release|x86.ActiveCfg = Release|Win32
+		{1F00BC4B-3D6E-4BED-95B8-C0B682ECF0BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
