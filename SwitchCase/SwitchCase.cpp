@@ -37,13 +37,16 @@ int main()
 	do
 	{
 		system("CLS");
-		cout << "Menu Kalkulator Sederhana\n";
+		cout << "----------------------------\n";
+		cout << "Program Kalkulator Sederhana\n";
+		cout << "----------------------------\n";
+		cout << "Menu\n";
 		cout << "1. Penjumlahan\n";
 		cout << "2. Pengurangan\n";
 		cout << "3. Perkalian\n";
 		cout << "4. Pembagian\n";
 		cout << "5. Keluar\n";
-		cout << "Masukkan pilhan : ";
+		cout << "Masukkan pilhan anda : ";
 		cin >> pilihan;
 
 		switch (pilihan)
